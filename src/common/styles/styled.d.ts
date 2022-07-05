@@ -11,6 +11,20 @@ declare module 'styled-components' {
       secondary: string;
     };
 
+    fonts: {
+      family: {
+        nunito: string;
+        lato: string;
+      };
+
+      weight: {
+        light: number;
+        normal: number;
+        semiBold: number;
+        bold: number;
+      };
+    };
+
     transitions: {
       fast: string;
       medium: string;

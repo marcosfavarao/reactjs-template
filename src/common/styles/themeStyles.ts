@@ -8,6 +8,20 @@ export const lightTheme = {
     secondary: '',
   },
 
+  fonts: {
+    family: {
+      nunito: 'Nunito',
+      lato: 'Lato',
+    },
+
+    weight: {
+      light: 300,
+      normal: 400,
+      semiBold: 600,
+      bold: 700,
+    },
+  },
+
   transitions: {
     fast: '300ms',
     medium: '500ms',
@@ -23,6 +37,20 @@ export const darkTheme = {
     text: '#FCFCFC',
     primary: '',
     secondary: '',
+  },
+
+  fonts: {
+    family: {
+      nunito: 'Nunito',
+      lato: 'Lato',
+    },
+
+    weight: {
+      light: 300,
+      normal: 400,
+      semiBold: 600,
+      bold: 700,
+    },
   },
 
   transitions: {

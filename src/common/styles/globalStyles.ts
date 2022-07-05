@@ -27,12 +27,12 @@ export const GlobalStyles = createGlobalStyle`
   };
 
 	body, input, textarea, button {
-    font-family: '', sans-serif;
-    font-weight: 400;
+    font-family: ${({ theme }) => theme.fonts.family.nunito || 'sans-serif'};
+    font-weight: ${({ theme }) => theme.fonts.weight.normal};
   };
 
   h1, h2, h3, h4, h5, h6, strong {
-    font-weight: 600;
+    font-weight: ${({ theme }) => theme.fonts.weight.semiBold};
   };
 
   button {
