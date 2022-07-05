@@ -1,7 +1,12 @@
+import { ThemeProvider } from 'styled-components';
+
+import { GlobalStyles, lightTheme, darkTheme } from './common/styles';
+
 export const App = () => {
   return (
-    <div>
+    <ThemeProvider theme={lightTheme}>
       <h1>React App</h1>
-    </div>
+      <GlobalStyles />
+    </ThemeProvider>
   );
 };
