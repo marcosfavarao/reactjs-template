@@ -21,11 +21,17 @@
 
 # React with Typescript template
 
-<p>O repositório é um template clonável customizado e próprio, pronto para ser utilizado. Elaborado com o intuito de criação de projetos utilizando ReactJS puro, removendo a necessidade de configurar e instalar pacotes padrões tais como linters(ESLint, Prettier...), serviços de requisição(Axios), ícones SVG's e afins. Conta com ferramentas úteis pré-desenvolvidas(Currency Formatter) e tema da aplicação configurado, em que neste último, basta apenas adicionar as cores em que a mesma possa conter.</p>
+O repositório é um template clonável, customizado e próprio, pronto para ser utilizado. Elaborado com o intuito de desenvolvimento de projetos utilizando ReactJS puro, removendo a necessidade de configurar e instalar pacotes padrões tais como:
+
+- Linters(ESLint, Prettier...)
+- Serviços de requisição(Axios)
+- Icones SVG's
+
+Conta com ferramentas úteis pré-desenvolvidas(Currency Formatter) e tema da aplicação configurado, em que neste último, basta apenas adicionar as cores em que a mesma possa conter.
 
 <br />
 
-# Folders Structure
+# Estrutura de Pastas
 
 **Here is how code tree looks like**
 
@@ -69,7 +75,7 @@ pages
 
 <br />
 
-# Estrutura de Pastas
+# Composição das Pastas
 
 <p>Todos os assets e ferramentas uteis que o projeto utiliza, sejam imagens, estilos gobais, fontes, tema, etc...</p>
 
@@ -119,7 +125,7 @@ pages
 
 <br />
 
-## Como Executar
+# Como Executar
 
 ### Yarn Package Manager
 
