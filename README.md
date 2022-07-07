@@ -27,13 +27,13 @@ O repositório é um template clonável, customizado e próprio, pronto para ser
 - Serviços de requisição(Axios)
 - Icones SVG's
 
-Conta com ferramentas úteis pré-desenvolvidas(Currency Formatter) e tema da aplicação configurado, em que neste último, basta apenas adicionar as cores em que a mesma possa conter.
+Conta com ferramentas úteis pré-desenvolvidas(Currency Formatter) e tema da aplicação configurado, em que neste último, basta apenas adicionar as cores que a mesma possa conter.
 
 <br />
 
 # Estrutura de Pastas
 
-**Here is how code tree looks like**
+**Estrutura hierárquica**
 
 ```
 src
@@ -52,7 +52,7 @@ src
 |-- index.tsx
 ```
 
-**Components structure:**
+**Estrutura de componentes:**
 
 ```
 components
@@ -62,7 +62,7 @@ components
   |-- index.ts
 ```
 
-**Pages structure:**
+**Estrutura das páginas:**
 
 ```
 pages
@@ -109,7 +109,7 @@ pages
 
 <br />
 
-<p>Rotas de acesso. Responsáveis por mapear as páginas e renderizar na DOM</p>
+<p>Rotas de acesso. Responsáveis por mapear as páginas e renderizar na DOM.</p>
 
 ```
 ./routes
@@ -117,7 +117,7 @@ pages
 
 <br />
 
-<p>Serviços de provedor de dados API para aplicação. Contém todos os arquivos e instalação necessárias(axios) para consumação de API's REST</p>
+<p>Serviços de provedor de dados API para aplicação. Contém todos os arquivos e instalação necessárias(axios) para consumação de API's REST.</p>
 
 ```
 ./services
