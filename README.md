@@ -27,7 +27,7 @@ O repositório é um template clonável, customizado e próprio, pronto para ser
 - Serviços de requisição(Axios)
 - Icones SVG's
 
-Conta com ferramentas úteis pré-desenvolvidas(Currency Formatter) e tema da aplicação configurado, em que neste último, basta apenas adicionar as cores que a mesma possa conter.
+Conta com ferramentas úteis pré-desenvolvidas(Currency Formatter) e tema da aplicação configurado, em que neste último, basta apenas adicionar as cores que a mesma possa conter. Também conta com ferramenta para servidor de mock front-end com rotas e banco de dados previamente configurados, facilitando o desenvolvimento de interfaces dinâmicas e escaláveis.
 
 <br />
 
@@ -153,6 +153,7 @@ O projeto está configurado com os seguintes pacotes:
 
 <a href="https://reactjs.org/" target="_blank"><img alt="Reactjs" src="https://ik.imagekit.io/marcosfavarao/dashboard/development-icons/minimalists/reactjs-256-minimalist_Uk7GF2fSb.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658447123475" style="width: 64px" > </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img alt="Typescript" src="https://ik.imagekit.io/marcosfavarao/dashboard/development-icons/minimalists/typescript-256-minimalist_qOZA91yRiX.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658447123241" style="width: 64px" > </a>
+<a href="https://miragejs.com/" target="_blank"> <img alt="MirageJS" src="https://ik.imagekit.io/marcosfavarao/dashboard/development-icons/minimalists/miragejs-256-minimalist_BF4EZjM5G.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659227363541" style="width: 64px" > </a>
 <a href="https://styled-components.com/" target="_blank"> <img alt="Styled-Components" src="https://ik.imagekit.io/marcosfavarao/dashboard/development-icons/minimalists/styledcomponents-256-minimalist_qQ-Mt_IJEb.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658447123335" style="width: 64px" > </a>
 <a href="https://polished.js.org/" target="_blank"> <img alt="Polished" src="https://ik.imagekit.io/marcosfavarao/dashboard/development-icons/minimalists/polished-256-minimalist_fjFp6ixha.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658447123195" style="width: 64px" > </a>
 <a href="https://react-icons.github.io/react-icons/" target="_blank"> <img alt="React Icons" src="https://ik.imagekit.io/marcosfavarao/dashboard/development-icons/minimalists/reacticons-256-minimalist_dlZc4Fvf8x.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658447123465" style="width: 64px" > </a>
@@ -167,6 +168,7 @@ O projeto está configurado com os seguintes pacotes:
 ## Dependências Principais
 
 - Axios
+- MirageJS
 - Polished
 - React
 - React Icons
